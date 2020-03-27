@@ -1,9 +1,9 @@
 import Link from 'next/link'
 export default () => (
   <div>
-    <p>Hello World!</p>
-    <Link href="/contact">
-      <a>Contact me!</a>
+    <p>Contact page!</p>
+    <Link href="/">
+      <a>back to home!</a>
     </Link>
   </div>
 )
